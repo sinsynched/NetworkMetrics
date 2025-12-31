@@ -1,0 +1,12 @@
+{
+  "Network": {
+    "LoadNetwork": true,
+    "_comment1": "Network Types -> 0: SquareLattice, 1: Erdos-Renyi, 2: RingGraph, 3: SmallWorld, 4: BarabasiAlbert, 5: TriangularLattice, 6: Honeycomb",
+    "NetworkType": 1,
+    "ErdosRenyiProbability": 0.0004,
+    "_comment2": "Number of nodes will be adjusted to form a perfect lattice in case of such networks.",
+    "NodesCount": 10000,
+    "RingGraphDegree": 4,
+    "RewiringProbability": 0.5
+  }
+}
